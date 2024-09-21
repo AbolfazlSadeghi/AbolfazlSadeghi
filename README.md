@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hello World . . . 👋 <br>My name is Abolfazl Sadeghi</h1>
+<h1 align="left">Hello World . . . 👋 <br>My name is Abolfazl</h1>
 Full stack web developer with a focus on Django. Interested in data mining and building data-driven web applications.
 
 <br clear="both">
