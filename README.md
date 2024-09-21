@@ -8,23 +8,23 @@ Full stack web developer with a focus on Django. Interested in data mining and b
 <h3 align="left">Skills</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
   <img width="12" />
 </div>
 
@@ -35,9 +35,13 @@ Full stack web developer with a focus on Django. Interested in data mining and b
 <h3 align="left">Contact Me</h3>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <a href="https://www.linkedin.com/in/ali-ahmadi">
+  <a href="www.linkedin.com/in/sadeghi-abolfazl">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="#">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
