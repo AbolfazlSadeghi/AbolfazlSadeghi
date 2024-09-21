@@ -1,6 +1,7 @@
 <br clear="both">
 
 <h1 align="left">Hello World . . . 👋 <br>My name is Abolfazl Sadeghi</h1>
+Full stack web developer with a focus on Django. Interested in data mining and building data-driven web applications.
 
 <br clear="both">
 
@@ -36,7 +37,9 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a url="https://www.linkedin.com/in/ali-ahmadi">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ### Front-End
@@ -47,9 +50,7 @@
 
 ### Back-End
 
-## علی احمدی
 
-**توسعه‌دهنده‌ی وب فول‌استک** با علاقه به ساختن وب‌اپلیکیشن‌های پویا و تعاملی.
 
 ### مهارت‌ها
 * **زبان‌ها:** Python, JavaScript, TypeScript
@@ -60,11 +61,4 @@
 ### پروژه‌ها
 * **وبلاگ شخصی:** وبلاگی برای نوشتن درباره تجربیات برنامه‌نویسی. [لینک به رپوزیتوری]
 * **اپلیکیشن آب و هوا:** یک اپلیکیشن وب ساده برای نمایش وضعیت آب و هوا. [لینک به رپوزیتوری]
-
-### علاقه‌مندی‌ها
-علاقه‌مند به یادگیری ماشین، هوش مصنوعی و توسعه‌ی بازی‌های کوچک هستم.
-
-### تماس با من
-* **ایمیل:** ali.ahmadi@example.com
-* **لینکدین:** https://www.linkedin.com/in/ali-ahmadi
 
