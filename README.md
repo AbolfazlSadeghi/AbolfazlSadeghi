@@ -35,7 +35,7 @@ Full stack web developer with a focus on Django. Interested in data mining and b
 <h3 align="left">Contact Me</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sadeghi-abolfazl">
+  <a src="https://www.linkedin.com/in/sadeghi-abolfazl">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="#">
@@ -45,24 +45,3 @@ Full stack web developer with a focus on Django. Interested in data mining and b
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
-
-### Back-End
-
-
-
-### مهارت‌ها
-* **زبان‌ها:** Python, JavaScript, TypeScript
-* **فریمورک‌ها:** Django, React, Node.js
-* **ابزارها:** Git, Docker, AWS
-* **داده‌ها:** SQL, NoSQL, Pandas, NumPy
-
-### پروژه‌ها
-* **وبلاگ شخصی:** وبلاگی برای نوشتن درباره تجربیات برنامه‌نویسی. [لینک به رپوزیتوری]
-* **اپلیکیشن آب و هوا:** یک اپلیکیشن وب ساده برای نمایش وضعیت آب و هوا. [لینک به رپوزیتوری]
-
