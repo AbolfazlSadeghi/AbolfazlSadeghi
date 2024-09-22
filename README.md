@@ -4,6 +4,18 @@
 
 Full stack web developer with a focus on Django. Interested in data mining and building data-driven web applications.
 
+I studied computer science at Mazandaran university since 2012 until 2017 and I graduated with a bachelor degree. I was learning digital photography and graphic software such as Photoshop, light room, Corel, illustrator, InDesign since 2012.</br>
+
+Then I was doing freelance programming such as:</br>
+•	Suggested method for automatic colorization of grayscale image based on histogram – 2016</br>
+•	Face Recognition Using Eigen face Approach - 2017</br>
+•	A fast recommendation system algorithm based on collaborative algorithms using data mining - 2017</br>
+•	A Novel Hybrid Collaborative Filtering Algorithm Research for Music Recommendation - 2018</br>
+•	Image restoration using improved K-SVD algorithm - 2018</br>
+
+Then learned web design platform such as HTML, CSS, WordPress, JavaScript, bootstrap, django.</br>
+
+
 # 💻 Graphical Software:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
